@@ -4,7 +4,7 @@ Based on [OpenCore 0.7.6](https://github.com/acidanthera/OpenCorePkg), followed 
 
 ## Hardware Specs
 - Processor: Intel(R) Core(TM) i7-4710MQ CPU @ 2.50GHz
-- RAM: 8 GB ( Wintec DDR3L 1600MHz )
+- RAM: 8 GB Wintec DDR3L 1600MHz
 - Motherboard: Intel HM86 Chipset
 - iGPU: Intel(R) HD Graphics 4600
 - dGPU: NVIDIA GeForce GTX 850M (disabled)
@@ -14,8 +14,8 @@ Based on [OpenCore 0.7.6](https://github.com/acidanthera/OpenCorePkg), followed 
 ## Requirements
 - [Clevo W650SJ laptop](https://web.archive.org/web/20140401085034/http://www.xoticpc.com/sager-np6658-clevo-w650sj-p-6994.html)
 - Working PC with macOS/Linux/Windows installed
-- Ethernet cable if you make online installer using Windows/Linux
-- USB drive: 4GB for online installation, 16GB for offline installation
+- Ethernet cable for online installer
+- 4GB USB drive for online installer, 16GB for offline installer 
 - Patience
 
 ## What doesn't work
