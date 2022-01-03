@@ -34,5 +34,6 @@ Based on [OpenCore 0.7.6](https://github.com/acidanthera/OpenCorePkg), followed 
 - Brightness keys and card reader may be fixable but I am too lazy to investigate
 - Compatible Intel WiFi chips may be purchased to be paired with [AirportItwlm and others](https://openintelwireless.github.io/) for usage
 - SMBIOS MacBookPro11,4 was chosen to be compatible with Monterey in the future
-- The RtWlanU kexts are installed as part of [chris111's drivers for USB WiFi dongles](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter), feel free to remove and update config.plist if not needed
+- The RtWlanU kexts are installed as part of [chris1111's drivers 
+for USB WiFi dongles](https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter), feel free to remove and update config.plist if not needed
 - OpenCore GUI and boot chime were added post-installation for fun
