@@ -9,7 +9,7 @@ dGPU: NVIDIA GeForce GTX 850M (disabled)
 Wireless Adapter: Realtek RTL8723BE Wireless LAN 802.11n PCI-E NIC (unsupported)
 
 ## Requirements
-- [Clevo W650SJ laptop] (https://web.archive.org/web/20140401085034/http://www.xoticpc.com/sager-np6658-clevo-w650sj-p-6994.html)
+- [Clevo W650SJ laptop](https://web.archive.org/web/20140401085034/http://www.xoticpc.com/sager-np6658-clevo-w650sj-p-6994.html)
 - Working PC with macOS/Linux/Windows installed
 - Ethernet cable if you make online installer using Windows/Linux
 - USB drive: 4GB for online installation, 16GB for offline installation
